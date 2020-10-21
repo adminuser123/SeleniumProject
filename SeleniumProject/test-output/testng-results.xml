@@ -14,19 +14,19 @@
       <![CDATA[clickeble locator found By.xpath: //button[@id='login-signin']]]>
     </line>
     <line>
-      <![CDATA[<img src = "file:///Users/metu/metu/development/springtools/SeleniumProject/ScreenShot/Yahoo-login20201016_184818.png" alt = ""/>]]>
+      <![CDATA[<img src = "file:///Users/metu/git/SeleniumProject/SeleniumProject/ScreenShot/Yahoo-login-20201021_113023.png" alt = ""/>]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8993" started-at="2020-10-16T22:48:10Z" finished-at="2020-10-16T22:48:19Z">
+  <suite name="Default suite" duration-ms="7881" started-at="2020-10-21T15:30:16Z" finished-at="2020-10-21T15:30:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8993" started-at="2020-10-16T22:48:10Z" finished-at="2020-10-16T22:48:19Z">
+    <test name="Default test" duration-ms="7881" started-at="2020-10-21T15:30:16Z" finished-at="2020-10-21T15:30:24Z">
       <class name="com.TestCase.Login_Yahoo">
-        <test-method status="PASS" signature="initiateDriver()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="initiateDriver" is-config="true" duration-ms="4372" started-at="2020-10-16T22:48:10Z" finished-at="2020-10-16T22:48:14Z">
+        <test-method status="PASS" signature="initiateDriver()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="initiateDriver" is-config="true" duration-ms="3686" started-at="2020-10-21T15:30:16Z" finished-at="2020-10-21T15:30:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriver -->
-        <test-method status="PASS" signature="loginYahoo()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="loginYahoo" duration-ms="3988" started-at="2020-10-16T22:48:14Z" finished-at="2020-10-16T22:48:18Z">
+        <test-method status="PASS" signature="loginYahoo()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="loginYahoo" duration-ms="3774" started-at="2020-10-21T15:30:20Z" finished-at="2020-10-21T15:30:23Z">
           <reporter-output>
             <line>
               <![CDATA[clickeble locator found By.xpath: //input[@id='login-username']]]>
@@ -41,11 +41,11 @@
               <![CDATA[clickeble locator found By.xpath: //button[@id='login-signin']]]>
             </line>
             <line>
-              <![CDATA[<img src = "file:///Users/metu/metu/development/springtools/SeleniumProject/ScreenShot/Yahoo-login20201016_184818.png" alt = ""/>]]>
+              <![CDATA[<img src = "file:///Users/metu/git/SeleniumProject/SeleniumProject/ScreenShot/Yahoo-login-20201021_113023.png" alt = ""/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginYahoo -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="closeBrowser" is-config="true" duration-ms="617" started-at="2020-10-16T22:48:18Z" finished-at="2020-10-16T22:48:19Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestCase.Login_Yahoo@8909f18]" name="closeBrowser" is-config="true" duration-ms="401" started-at="2020-10-21T15:30:23Z" finished-at="2020-10-21T15:30:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
